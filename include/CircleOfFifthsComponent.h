@@ -1,0 +1,9 @@
+#ifndef CIRCLEOFFIFTHSCOMPONENT_H_INCLUDED
+#define CIRCLEOFFIFTHSCOMPONENT_H_INCLUDED
+
+class CircleOfFifthsComponent {
+public:
+    void draw();
+};
+
+#endif // CIRCLEOFFIFTHSCOMPONENT_H_INCLUDED
